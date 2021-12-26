@@ -1,0 +1,29 @@
+body{
+    direction: rtl;
+}
+.text {
+    clip-path: polygon(100% 0%, 100% 100%, -1% 100%) !important;
+}
+.mo {
+    left: 0 !important;
+    right: 50% !important;
+}
+.input-name {
+    width: 46.4%;
+}
+#contact-submit {
+    margin: 30px 16px 30px 16px !important;
+}
+.icon-link:nth-child(5){
+    margin-right: 30px !important;
+}
+.deatil-year{
+    margin: auto;
+}
+.deatil-year2{
+    margin: auto;
+}
+.a:hover i{
+    margin-right: 6px;
+    transition: .5s ease-in-out;
+}
